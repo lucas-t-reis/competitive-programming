@@ -1,8 +1,9 @@
+# Vim files
+*.*.swp
+
 # Compiler sources
 *.out
 *.o
-
-
 
 # Inputs
 *.txt

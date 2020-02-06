@@ -1,3 +1,6 @@
 # Resources
 *.zip
 *.pdf
+
+# Compiled from source
+*.out

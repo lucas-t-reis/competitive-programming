@@ -6,12 +6,12 @@
   Input: decimal precision and sum iterations
 
   Optimization: The part of the code optimized was the division
-  of each term, which is an independent part of the division of 
-  the next one. Also, some data structures and initialization 
-  methods were altered from the original (in sum.cpp). 
+  of each term, which is an independent part the whole process. 
+  Also, some data structures and initialization methods were
+  altered from the original (in sum.cpp). 
   
   Maybe there are even more ways to improve this code only using 
-  CPU Parallelism and good practices, but with for now this is 
+  CPU Parallelism and good practices, but for now this is 
   what I managed to achieve.
 
 */
